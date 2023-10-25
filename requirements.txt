@@ -1,0 +1,5 @@
+pytest==7.4.0
+pencv_python==4.8.0.76
+numpy==1.25.2
+matplotlib==3.7.2
+rawpy==0.18.1
